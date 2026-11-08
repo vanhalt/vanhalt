@@ -21,7 +21,10 @@ I am Rafa. I have been working with software all my life.
 - Agentic development and orchestration
 - Finding a great job opportunity. If you hiring, please let me know! 
 
-Some projects that I created for my personal use [Life Wheel](https://life-wheel.com/) (Wheel of life goals tracker), [Pitazo](https://pitazo.cl) (soccer matches manager)
+📂  My projects:
+- [Life Wheel](https://life-wheel.com/): Wheel of life goals tracker
+- [Pitazo](https://pitazo.cl): Pickup games organizer and manager with fun tools
+- [Vecimarket](https://vecimarket.cl): Hyperlocal marketplace for neighbors. People that were sharing their products and services via messaging apps, now have a place
 
 🌱 I’m currently learning
 - Rust
