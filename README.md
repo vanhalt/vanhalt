@@ -25,6 +25,7 @@ I am Rafa. I have been working with software all my life.
 - [Life Wheel](https://life-wheel.com/): Wheel of life goals tracker
 - [Pitazo](https://pitazo.cl): Pickup games organizer and manager with fun tools
 - [Vecimarket](https://vecimarket.cl): Hyperlocal marketplace for neighbors. People that were sharing their products and services via messaging apps, now have a place
+- [Stocky](https://stocky.cl): Stock management
 
 🌱 I’m currently learning
 - Rust
